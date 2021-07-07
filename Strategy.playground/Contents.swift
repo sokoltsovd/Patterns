@@ -1,11 +1,11 @@
-
-
-
+// Создаем протокол с определением уровня опыта
 
 protocol SwimBehavior {
     
     func swim()
 }
+
+// Создаем класс подписаный на протокол с определением опыта(умеет не умеет плавать)
 
 class ProfessionalSwimmer: SwimBehavior {
     
@@ -21,11 +21,14 @@ class NonSwimmer: SwimBehavior {
     }
 }
 
+// Создаем протокол с определением уровня опыта
+
 protocol DiveBehavior {
     
     func dive()
 }
 
+// Создаем класс подписаный на протокол с определением опыта(умеет не умеет нырять)
 
 class ProfessionalDiver: DiveBehavior {
     
@@ -49,7 +52,7 @@ class NonDiver: DiveBehavior {
     }
 }
 
-
+// Создаем класс с приватными переменными подписаные на протокол, функции опыта(perfotm) и определения оптыа (set)
 class Human {
     
     private var diveBehavior: DiveBehavior!
@@ -75,10 +78,7 @@ class Human {
         self.diveBehavior = db
     }
     
-    func run() {
-        
-        print("running")
-    }
+// Инициализируем
     
     init(swimBehavior: SwimBehavior, diveBehavior: DiveBehavior) {
         self.swimBehavior = swimBehavior
@@ -86,11 +86,15 @@ class Human {
     }
 }
 
+// Создаем переменную с определением опыта
+let dmitry = Human(swimBehavior: ProfessionalSwimmer(), diveBehavior: ProfessionalDiver())
 
-let human = Human(swimBehavior: ProfessionalSwimmer(), diveBehavior: ProfessionalDiver())
-human.setSwimBehavior(sb: NonSwimmer())
-human.performDive()
-human.performSwim()
+//Устанавливаем опыт
+dmitry.setSwimBehavior(sb: NonSwimmer())
+
+
+dmitry.performDive()
+dmitry.performSwim()
 
 
 
