@@ -8,6 +8,6 @@ Also, the patterns solve the problem of communication between programmers of one
 
 ![Альтернативный текст](StrategyPattern.png)
 
-- [Observer Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Strategy.playground "Strategy")
+- [Observer Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Observer.playground "Observer")
 
 ![Альтернативный текст](ObserverPattern.png)
