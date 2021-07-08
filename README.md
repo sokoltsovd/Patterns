@@ -7,3 +7,7 @@ Also, the patterns solve the problem of communication between programmers of one
 - [Strategy Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Strategy.playground "Strategy")
 
 ![Альтернативный текст](StrategyPattern.png)
+
+- [Observer Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Strategy.playground "Strategy")
+
+![Альтернативный текст](ObserverPattern.png)
