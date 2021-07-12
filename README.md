@@ -7,6 +7,6 @@ Also, the patterns solve the problem of communication between programmers of one
 - [Strategy Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Strategy.playground "Strategy")
 - [Observer Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Observer.playground "Observer")
 - [Decorator Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Decorator.playground "Decorator")
-- [SimpleFactory Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "SimpleFactory")
+- [SimpleFactory Blowing Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "SimpleFactory")
 
 
