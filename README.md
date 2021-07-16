@@ -10,4 +10,6 @@ Also, the patterns solve the problem of communication between programmers of one
 - [SimpleFactory Blowing Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "SimpleFactory")
 - [FactoryMethod Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "FactoryMethod")
 - [AbstractFactory Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "AbstractFactory")
+- [Singleton Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Singleton "Singleton")
+
 
