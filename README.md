@@ -8,5 +8,6 @@ Also, the patterns solve the problem of communication between programmers of one
 - [Observer Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Observer.playground "Observer")
 - [Decorator Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Decorator.playground "Decorator")
 - [SimpleFactory Blowing Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "SimpleFactory")
-
+- [FactoryMethod Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "FactoryMethod")
+- [AbstractFactory Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/SimpleFactory.playground "AbstractFactory")
 
