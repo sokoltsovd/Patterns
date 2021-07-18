@@ -1,6 +1,4 @@
-
-
-
+//Pattern
 // adaptee
 class SimpleCar {
     
