@@ -13,5 +13,6 @@ Also, the patterns solve the problem of communication between programmers of one
 - [Singleton Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Singleton "Singleton")
 - [Command Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Command.playground "Command")
 - [Adapter Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Adapter.playground "Adapter")
+- [Facade Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Facade.playground "Facade")
 
 
