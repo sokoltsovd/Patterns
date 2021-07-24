@@ -16,4 +16,5 @@ Also, the patterns solve the problem of communication between programmers of one
 - [Facade Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Facade.playground "Facade")
 - [TemplateMethod Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/TemplateMethod.playground "TemplateMethod")
 - [Iterator Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Iterator.playground "Iterator")
+- [Composite Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Composite.playground "Composite")
 
