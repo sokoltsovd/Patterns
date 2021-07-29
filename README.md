@@ -18,4 +18,5 @@ Also, the patterns solve the problem of communication between programmers of one
 - [Iterator Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Iterator.playground "Iterator")
 - [Composite Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Composite.playground "Composite")
 - [State Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/State.playground "State")
+- [Proxy Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Proxy.playground "Proxy")
 
