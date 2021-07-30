@@ -20,3 +20,5 @@ Also, the patterns solve the problem of communication between programmers of one
 - [State Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/State.playground "State")
 - [Proxy Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Proxy.playground "Proxy")
 - [Builder Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/Builder.playground "Builder")
+- [ChainOfResponsibility Pattern](https://github.com/dmitrysokoltsov/Patterns/tree/master/ChainOfResponsibility.playground "ChainOfResponsibility")
+
